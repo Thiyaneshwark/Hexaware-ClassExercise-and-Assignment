@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\joinsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:joinsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\firstandfirstordefaultdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:firstandfirstordefaultdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\groupbydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:groupbydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\oftypeoperatordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:oftypeoperatordemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day3-c# class exercise \u0026 assignment\\linq_demo\\orderbydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB10C6CE-4803-4AF9-8E0A-BBA943F401E7}|LINQ_Demo.csproj|solutionrelative:orderbydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JoinsDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\JoinsDemo.cs",
+              "RelativeDocumentMoniker": "JoinsDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\JoinsDemo.cs",
+              "RelativeToolTip": "JoinsDemo.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:50:09.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupByDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\GroupByDemo.cs",
+              "RelativeDocumentMoniker": "GroupByDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\GroupByDemo.cs",
+              "RelativeToolTip": "GroupByDemo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:55:36.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:12:33.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstandFirstordefaultDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\FirstandFirstordefaultDemo.cs",
+              "RelativeDocumentMoniker": "FirstandFirstordefaultDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\FirstandFirstordefaultDemo.cs",
+              "RelativeToolTip": "FirstandFirstordefaultDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:34:47.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfTypeOperatorDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\OfTypeOperatorDemo.cs",
+              "RelativeDocumentMoniker": "OfTypeOperatorDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\OfTypeOperatorDemo.cs",
+              "RelativeToolTip": "OfTypeOperatorDemo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:50:20.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderByDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\OrderByDemo.cs",
+              "RelativeDocumentMoniker": "OrderByDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day3-C# Class Exercise \u0026 Assignment\\LINQ_Demo\\OrderByDemo.cs",
+              "RelativeToolTip": "OrderByDemo.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:20:07.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\bin\Debug\net6.0\AssignmentQn12.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\bin\Debug\net6.0\AssignmentQn12.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\bin\Debug\net6.0\AssignmentQn12.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\bin\Debug\net6.0\AssignmentQn12.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\bin\Debug\net6.0\AssignmentQn12.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\refint\AssignmentQn12.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\AssignmentQn12.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\Assignments\AssignmentQn12\obj\Debug\net6.0\ref\AssignmentQn12.dll

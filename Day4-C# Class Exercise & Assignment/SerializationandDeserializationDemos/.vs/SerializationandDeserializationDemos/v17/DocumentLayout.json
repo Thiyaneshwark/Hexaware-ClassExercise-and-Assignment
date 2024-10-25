@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB63E8-52F2-45D1-BC8B-6CA46B8E01CA}|Deserialization\\Deserialization.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\deserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB63E8-52F2-45D1-BC8B-6CA46B8E01CA}|Deserialization\\Deserialization.csproj|solutionrelative:deserialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB63E8-52F2-45D1-BC8B-6CA46B8E01CA}|Deserialization\\Deserialization.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\deserialization\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB63E8-52F2-45D1-BC8B-6CA46B8E01CA}|Deserialization\\Deserialization.csproj|solutionrelative:deserialization\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14742D78-8BDF-45FF-98B1-865CDFD80C0B}|SerializationandDeserializationDemos\\SerializationandDeserializationDemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\serializationanddeserializationdemos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14742D78-8BDF-45FF-98B1-865CDFD80C0B}|SerializationandDeserializationDemos\\SerializationandDeserializationDemos.csproj|solutionrelative:serializationanddeserializationdemos\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14742D78-8BDF-45FF-98B1-865CDFD80C0B}|SerializationandDeserializationDemos\\SerializationandDeserializationDemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\serializationanddeserializationdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14742D78-8BDF-45FF-98B1-865CDFD80C0B}|SerializationandDeserializationDemos\\SerializationandDeserializationDemos.csproj|solutionrelative:serializationanddeserializationdemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D3357B-C9BE-487B-99EA-3E0D79F4B069}|Serialization\\Serialization.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D3357B-C9BE-487B-99EA-3E0D79F4B069}|Serialization\\Serialization.csproj|solutionrelative:serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D3357B-C9BE-487B-99EA-3E0D79F4B069}|Serialization\\Serialization.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\serializationanddeserializationdemos\\serialization\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98D3357B-C9BE-487B-99EA-3E0D79F4B069}|Serialization\\Serialization.csproj|solutionrelative:serialization\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Product.cs",
+              "RelativeDocumentMoniker": "Deserialization\\Product.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Product.cs",
+              "RelativeToolTip": "Deserialization\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:14:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Program.cs",
+              "RelativeDocumentMoniker": "Deserialization\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Program.cs",
+              "RelativeToolTip": "Deserialization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:14:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\SerializationandDeserializationDemos\\Product.cs",
+              "RelativeDocumentMoniker": "SerializationandDeserializationDemos\\Product.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\SerializationandDeserializationDemos\\Product.cs",
+              "RelativeToolTip": "SerializationandDeserializationDemos\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:12:48.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Product.cs",
+              "RelativeDocumentMoniker": "Serialization\\Product.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Product.cs",
+              "RelativeToolTip": "Serialization\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:02:59.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Program.cs",
+              "RelativeDocumentMoniker": "Serialization\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Program.cs",
+              "RelativeToolTip": "Serialization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:02:37.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\SerializationandDeserializationDemos\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationandDeserializationDemos\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\SerializationandDeserializationDemos\\Program.cs",
+              "RelativeToolTip": "SerializationandDeserializationDemos\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:02:06.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

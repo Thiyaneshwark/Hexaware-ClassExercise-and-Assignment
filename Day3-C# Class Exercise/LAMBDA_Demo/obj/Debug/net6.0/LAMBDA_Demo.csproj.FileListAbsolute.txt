@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\bin\Debug\net6.0\LAMBDA_Demo.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\bin\Debug\net6.0\LAMBDA_Demo.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\bin\Debug\net6.0\LAMBDA_Demo.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\bin\Debug\net6.0\LAMBDA_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\bin\Debug\net6.0\LAMBDA_Demo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\refint\LAMBDA_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\LAMBDA_Demo.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\LAMBDA_Demo\obj\Debug\net6.0\ref\LAMBDA_Demo.dll

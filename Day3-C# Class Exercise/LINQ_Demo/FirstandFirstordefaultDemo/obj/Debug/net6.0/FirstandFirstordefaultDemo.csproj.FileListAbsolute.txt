@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\bin\Debug\net6.0\FirstandFirstordefaultDemo.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\bin\Debug\net6.0\FirstandFirstordefaultDemo.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\bin\Debug\net6.0\FirstandFirstordefaultDemo.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\bin\Debug\net6.0\FirstandFirstordefaultDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\bin\Debug\net6.0\FirstandFirstordefaultDemo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\refint\FirstandFirstordefaultDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\FirstandFirstordefaultDemo.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\LINQ_Demo\FirstandFirstordefaultDemo\obj\Debug\net6.0\ref\FirstandFirstordefaultDemo.dll

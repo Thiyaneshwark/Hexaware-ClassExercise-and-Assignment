@@ -17,7 +17,7 @@ order by product_name
 END
 
 EXEC uspProductList
--- To knOw about the uspProductList(stored procedure):
+-- To know about the uspProductList(stored procedure):
 sp_help uspProductList
 
 USE BikeStores

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <Id>1</Id>
+    <Name>Author 1</Name>
+    <Age>45</Age>
+  </Author>
+  <Author>
+    <Id>2</Id>
+    <Name>Author 2</Name>
+    <Age>50</Age>
+  </Author>
+  <Author>
+    <Id>3</Id>
+    <Name>Author 3</Name>
+    <Age>39</Age>
+  </Author>
+  <Author>
+    <Id>4</Id>
+    <Name>Author 4</Name>
+    <Age>60</Age>
+  </Author>
+  <Author>
+    <Id>5</Id>
+    <Name>Author 5</Name>
+    <Age>30</Age>
+  </Author>
+</ArrayOfAuthor>
