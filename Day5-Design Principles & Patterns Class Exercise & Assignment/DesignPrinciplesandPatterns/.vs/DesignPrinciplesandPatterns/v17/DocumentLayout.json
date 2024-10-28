@@ -1,0 +1,639 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCDA6DF-66CD-4FCE-908A-795DC4B2D047}|SingletonPattern_Demo\\SingletonPattern_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\singletonpattern_demo\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCDA6DF-66CD-4FCE-908A-795DC4B2D047}|SingletonPattern_Demo\\SingletonPattern_Demo.csproj|solutionrelative:singletonpattern_demo\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\assignment__srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\assignment__srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCDA6DF-66CD-4FCE-908A-795DC4B2D047}|SingletonPattern_Demo\\SingletonPattern_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\singletonpattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCDA6DF-66CD-4FCE-908A-795DC4B2D047}|SingletonPattern_Demo\\SingletonPattern_Demo.csproj|solutionrelative:singletonpattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\factorypattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|solutionrelative:factorypattern_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\factorypattern_demo\\creditcardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|solutionrelative:factorypattern_demo\\creditcardfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\factorypattern_demo\\icreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859C2373-D610-4950-99E1-4E3C2636FA15}|FactoryPattern_Demo\\FactoryPattern_Demo.csproj|solutionrelative:factorypattern_demo\\icreditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_dependencyinversionprinciple\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|solutionrelative:assignment_dependencyinversionprinciple\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_dependencyinversionprinciple\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|solutionrelative:assignment_dependencyinversionprinciple\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\opencloseddemo\\opencloseddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|solutionrelative:opencloseddemo\\opencloseddemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\dependencyinversionprinciple_demo\\dependencyinversionprinciple_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|solutionrelative:dependencyinversionprinciple_demo\\dependencyinversionprinciple_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\dependencyinversionprinciple_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|solutionrelative:dependencyinversionprinciple_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\dependencyinversionprinciple_demo\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|solutionrelative:dependencyinversionprinciple_demo\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\dependencyinversionprinciple_demo\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1C3D60-7E3A-4102-999A-A0A1B2982684}|DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj|solutionrelative:dependencyinversionprinciple_demo\\iaudioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\opencloseddemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|solutionrelative:opencloseddemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\interfacesegregationprinciple_demo\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|solutionrelative:interfacesegregationprinciple_demo\\investmentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\interfacesegregationprinciple_demo\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|solutionrelative:interfacesegregationprinciple_demo\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\interfacesegregationprinciple_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|solutionrelative:interfacesegregationprinciple_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\interfacesegregationprinciple_demo\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE72DC5-5446-49CC-A0F7-EE4E8D0465C5}|InterfaceSegregationPrinciple_Demo\\InterfaceSegregationPrinciple_Demo.csproj|solutionrelative:interfacesegregationprinciple_demo\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\opencloseddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0461255A-2ACD-4518-BC3C-777EC26A07B8}|OpenClosedDemo\\OpenClosedDemo.csproj|solutionrelative:opencloseddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|solutionrelative:assignment_dependencyinversionprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_dependencyinversionprinciple\\userfactory,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|solutionrelative:assignment_dependencyinversionprinciple\\userfactory,cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_dependencyinversionprinciple\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE36B229-DFAF-4841-B51E-FDB78F0F16FF}|Assignment_DependencyInversionPrinciple\\ASSIGNMENT_DIP.csproj|solutionrelative:assignment_dependencyinversionprinciple\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\lsp_demo\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|solutionrelative:lsp_demo\\orange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\lsp_demo\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|solutionrelative:lsp_demo\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\lsp_demo\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|solutionrelative:lsp_demo\\ifruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\lsp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBA14C9-2D6E-4E28-BFED-8C68E7F74856}|LSP_Demo\\LiskovSegregationPrinciple_Demo.csproj|solutionrelative:lsp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\banksystemsrp\\assignment_srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82827F50-2DE3-4CDA-A8E6-476811C04E2D}|BankSystemSRP\\ASSIGNMENT_SRP.csproj|solutionrelative:banksystemsrp\\assignment_srp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day5-design principles \u0026 patterns class exercise \u0026 assignment\\designprinciplesandpatterns\\assignment_singleresponsibilityprinciple\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773EA134-5BCD-4979-9D90-9F3EE18A0E62}|Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj|solutionrelative:assignment_singleresponsibilityprinciple\\statementgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Account.cs",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\Account.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Account.cs",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:24:46.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\BankSystem.cs",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\BankSystem.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\BankSystem.cs",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\BankSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:25:25.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Program.cs",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:24:24.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StatementGenerator.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\StatementGenerator.cs",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\StatementGenerator.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\StatementGenerator.cs",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\StatementGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:26:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Transaction.cs",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\Transaction.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\Transaction.cs",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:27:06.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\SingletonPattern_Demo\\Configuration.cs",
+              "RelativeDocumentMoniker": "SingletonPattern_Demo\\Configuration.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\SingletonPattern_Demo\\Configuration.cs",
+              "RelativeToolTip": "SingletonPattern_Demo\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:19:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASSIGNMENT__SRP.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj",
+              "RelativeDocumentMoniker": "Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj",
+              "RelativeToolTip": "Assignment_SingleResponsibilityPrinciple\\ASSIGNMENT__SRP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:25:17.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\SingletonPattern_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonPattern_Demo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\SingletonPattern_Demo\\Program.cs",
+              "RelativeToolTip": "SingletonPattern_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:18:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankSystemSRP\\Transaction.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Transaction.cs",
+              "RelativeToolTip": "BankSystemSRP\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:27:43.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatementGenerator.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\StatementGenerator.cs",
+              "RelativeDocumentMoniker": "BankSystemSRP\\StatementGenerator.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\StatementGenerator.cs",
+              "RelativeToolTip": "BankSystemSRP\\StatementGenerator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:28:12.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystemSRP\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Program.cs",
+              "RelativeToolTip": "BankSystemSRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:19:52.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\BankSystem.cs",
+              "RelativeDocumentMoniker": "BankSystemSRP\\BankSystem.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\BankSystem.cs",
+              "RelativeToolTip": "BankSystemSRP\\BankSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:26:45.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Account.cs",
+              "RelativeDocumentMoniker": "BankSystemSRP\\Account.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\Account.cs",
+              "RelativeToolTip": "BankSystemSRP\\Account.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T04:27:11.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPattern_Demo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\Program.cs",
+              "RelativeToolTip": "FactoryPattern_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:48:40.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICreditCard.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\ICreditCard.cs",
+              "RelativeDocumentMoniker": "FactoryPattern_Demo\\ICreditCard.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\ICreditCard.cs",
+              "RelativeToolTip": "FactoryPattern_Demo\\ICreditCard.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:49:43.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreditcardFactory.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\CreditcardFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPattern_Demo\\CreditcardFactory.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\FactoryPattern_Demo\\CreditcardFactory.cs",
+              "RelativeToolTip": "FactoryPattern_Demo\\CreditcardFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:58:29.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\IUser.cs",
+              "RelativeDocumentMoniker": "Assignment_DependencyInversionPrinciple\\IUser.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\IUser.cs",
+              "RelativeToolTip": "Assignment_DependencyInversionPrinciple\\IUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:27:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Assignment_DependencyInversionPrinciple\\LibraryService.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\LibraryService.cs",
+              "RelativeToolTip": "Assignment_DependencyInversionPrinciple\\LibraryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:26:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_DependencyInversionPrinciple\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\Program.cs",
+              "RelativeToolTip": "Assignment_DependencyInversionPrinciple\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:21:32.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserFactory,cs.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\UserFactory,cs.cs",
+              "RelativeDocumentMoniker": "Assignment_DependencyInversionPrinciple\\UserFactory,cs.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\UserFactory,cs.cs",
+              "RelativeToolTip": "Assignment_DependencyInversionPrinciple\\UserFactory,cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:46:22.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpenClosedDemo.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\OpenClosedDemo.csproj",
+              "RelativeDocumentMoniker": "OpenClosedDemo\\OpenClosedDemo.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\OpenClosedDemo.csproj",
+              "RelativeToolTip": "OpenClosedDemo\\OpenClosedDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T09:03:32.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Assignment_DependencyInversionPrinciple\\UserRoles.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\Assignment_DependencyInversionPrinciple\\UserRoles.cs",
+              "RelativeToolTip": "Assignment_DependencyInversionPrinciple\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:46:57.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInversionPrinciple_Demo.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj",
+              "RelativeToolTip": "DependencyInversionPrinciple_Demo\\DependencyInversionPrinciple_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:52:28.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ASSIGNMENT_SRP.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\ASSIGNMENT_SRP.csproj",
+              "RelativeDocumentMoniker": "BankSystemSRP\\ASSIGNMENT_SRP.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\BankSystemSRP\\ASSIGNMENT_SRP.csproj",
+              "RelativeToolTip": "BankSystemSRP\\ASSIGNMENT_SRP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T10:44:12.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.Managed.Core.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAuwGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-28T10:12:59.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple_Demo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\Program.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:09:27.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAudioPlayer.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\IAudioPlayer.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple_Demo\\IAudioPlayer.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\IAudioPlayer.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple_Demo\\IAudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:10:21.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MP3Player.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\MP3Player.cs",
+              "RelativeDocumentMoniker": "DependencyInversionPrinciple_Demo\\MP3Player.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\DependencyInversionPrinciple_Demo\\MP3Player.cs",
+              "RelativeToolTip": "DependencyInversionPrinciple_Demo\\MP3Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:17:09.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple_Demo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\Program.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:57:29.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvestmentAccount.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\InvestmentAccount.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple_Demo\\InvestmentAccount.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\InvestmentAccount.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple_Demo\\InvestmentAccount.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:11:18.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Orange.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Orange.cs",
+              "RelativeDocumentMoniker": "LSP_Demo\\Orange.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Orange.cs",
+              "RelativeToolTip": "LSP_Demo\\Orange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:59:33.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Apple.cs",
+              "RelativeDocumentMoniker": "LSP_Demo\\Apple.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Apple.cs",
+              "RelativeToolTip": "LSP_Demo\\Apple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:59:14.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IFruit.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\IFruit.cs",
+              "RelativeDocumentMoniker": "LSP_Demo\\IFruit.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\IFruit.cs",
+              "RelativeToolTip": "LSP_Demo\\IFruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:58:30.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "OpenClosedDemo\\Employee.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\Employee.cs",
+              "RelativeToolTip": "OpenClosedDemo\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:01:59.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "LSP_Demo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\LSP_Demo\\Program.cs",
+              "RelativeToolTip": "LSP_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:57:58.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\IAccount.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple_Demo\\IAccount.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\IAccount.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple_Demo\\IAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:58:50.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregationPrinciple_Demo\\SavingsAccount.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\InterfaceSegregationPrinciple_Demo\\SavingsAccount.cs",
+              "RelativeToolTip": "InterfaceSegregationPrinciple_Demo\\SavingsAccount.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:05:07.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\Program.cs",
+              "RelativeDocumentMoniker": "OpenClosedDemo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day5-Design Principles \u0026 Patterns Class Exercise \u0026 Assignment\\DesignPrinciplesandPatterns\\OpenClosedDemo\\Program.cs",
+              "RelativeToolTip": "OpenClosedDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:01:17.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\bin\Debug\net6.0\OpenClosedDemo.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\bin\Debug\net6.0\OpenClosedDemo.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\bin\Debug\net6.0\OpenClosedDemo.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\bin\Debug\net6.0\OpenClosedDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\bin\Debug\net6.0\OpenClosedDemo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\refint\OpenClosedDemo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\OpenClosedDemo.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\OpenClosedDemo\obj\Debug\net6.0\ref\OpenClosedDemo.dll

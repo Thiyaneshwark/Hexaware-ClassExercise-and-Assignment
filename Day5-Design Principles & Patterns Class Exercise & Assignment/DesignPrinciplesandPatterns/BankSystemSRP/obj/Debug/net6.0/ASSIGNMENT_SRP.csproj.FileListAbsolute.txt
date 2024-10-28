@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\bin\Debug\net6.0\ASSIGNMENT_SRP.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\bin\Debug\net6.0\ASSIGNMENT_SRP.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\bin\Debug\net6.0\ASSIGNMENT_SRP.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\bin\Debug\net6.0\ASSIGNMENT_SRP.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\bin\Debug\net6.0\ASSIGNMENT_SRP.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\refint\ASSIGNMENT_SRP.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ASSIGNMENT_SRP.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\BankSystemSRP\obj\Debug\net6.0\ref\ASSIGNMENT_SRP.dll
