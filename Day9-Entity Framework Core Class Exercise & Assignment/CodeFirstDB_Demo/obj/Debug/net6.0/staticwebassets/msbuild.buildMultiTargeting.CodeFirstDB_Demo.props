@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeFirstDB_Demo.props" />
+</Project>

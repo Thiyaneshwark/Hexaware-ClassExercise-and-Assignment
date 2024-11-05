@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj": {}
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj": {}
   },
   "projects": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj": {
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj",
+        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj",
         "projectName": "CodeFirstDB_Demo",
-        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj",
+        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\\CodeFirstDB_Demo\\CodeFirstDB_Demo.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise & Assignment\\CodeFirstDB_Demo\\obj\\",
+        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\\CodeFirstDB_Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

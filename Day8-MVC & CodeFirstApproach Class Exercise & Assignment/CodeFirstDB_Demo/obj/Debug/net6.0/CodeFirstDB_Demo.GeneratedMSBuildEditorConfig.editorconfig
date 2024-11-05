@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeFirstDB_Demo
 build_property.RootNamespace = CodeFirstDB_Demo
-build_property.ProjectDir = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day8-Class Exercise & Assignment\CodeFirstDB_Demo\
+build_property.ProjectDir = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\CodeFirstDB_Demo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day8-Class Exercise & Assignment\CodeFirstDB_Demo
+build_property.MSBuildProjectDirectory = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day8-MVC & CodeFirstApproach Class Exercise & Assignment\CodeFirstDB_Demo
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Create.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Delete.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Details.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Edit.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Index.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Home/Index.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Home/Privacy.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/Error.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/_ViewImports.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/_ViewStart.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/_Layout.cshtml]
+[D:/HEXAWARE/C\#/DOT NET FSD/Assignments/Day8-MVC & CodeFirstApproach Class Exercise & Assignment/CodeFirstDB_Demo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i5bdzir161

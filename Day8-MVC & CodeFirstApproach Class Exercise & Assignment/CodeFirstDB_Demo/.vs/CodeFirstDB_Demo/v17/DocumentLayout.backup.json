@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\",
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\migrations\\20241101100006_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:migrations\\20241101100006_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\migrations\\20241101100006_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:migrations\\20241101100006_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-class exercise \u0026 assignment\\codefirstdb_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day8-mvc \u0026 codefirstapproach class exercise \u0026 assignment\\codefirstdb_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D3484D-4D75-4876-916F-C74F041D1673}|CodeFirstDB_Demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,16 +73,50 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:49:41.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:39:10.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T12:02:31.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Delete.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Delete.cshtml",
               "RelativeToolTip": "Views\\Departments\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,146 +125,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:59:34.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Departments\\Details.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Details.cshtml",
-              "RelativeToolTip": "Views\\Departments\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:58:48.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241101100006_dbcreation.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Migrations\\20241101100006_dbcreation.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241101100006_dbcreation.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Migrations\\20241101100006_dbcreation.cs",
-              "RelativeToolTip": "Migrations\\20241101100006_dbcreation.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T10:00:07.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:49:41.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Controllers\\DepartmentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Controllers\\DepartmentsController.cs",
-              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwFAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T11:39:10.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Departments\\Create.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Create.cshtml",
-              "RelativeToolTip": "Views\\Departments\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T12:02:31.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-01T12:04:33.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241101100006_dbcreation.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Migrations\\20241101100006_dbcreation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241101100006_dbcreation.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Migrations\\20241101100006_dbcreation.cs",
+              "RelativeToolTip": "Migrations\\20241101100006_dbcreation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:00:07.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:58:48.074Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Edit.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T11:59:34.251Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Views\\Departments\\Index.cshtml",
               "RelativeToolTip": "Views\\Departments\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-01T11:57:49.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T11:57:49.114Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-01T09:47:41.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:47:41.766Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "MyContext.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\MyContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\MyContext.cs",
               "RelativeDocumentMoniker": "Models\\MyContext.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\MyContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\MyContext.cs",
               "RelativeToolTip": "Models\\MyContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:46:57.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:46:57.992Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Department.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\Department.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\Department.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day8-MVC \u0026 CodeFirstApproach Class Exercise \u0026 Assignment\\CodeFirstDB_Demo\\Models\\Department.cs",
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T09:38:42.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T09:38:42.145Z"
             }
           ]
         }
