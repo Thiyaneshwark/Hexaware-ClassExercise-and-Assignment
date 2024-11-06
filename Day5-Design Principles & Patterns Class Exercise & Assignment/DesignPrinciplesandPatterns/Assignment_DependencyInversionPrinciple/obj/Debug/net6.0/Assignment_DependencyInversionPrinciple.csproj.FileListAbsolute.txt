@@ -1,1 +1,0 @@
-D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\Assignment_DependencyInversionPrinciple\obj\Debug\net6.0\Assignment_DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
