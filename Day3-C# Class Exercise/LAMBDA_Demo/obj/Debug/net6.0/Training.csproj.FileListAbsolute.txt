@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\bin\Debug\net6.0\Training.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\bin\Debug\net6.0\Training.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\bin\Debug\net6.0\Training.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\bin\Debug\net6.0\Training.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\bin\Debug\net6.0\Training.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\refint\Training.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\Training.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day3-C# Class Exercise & Assignment\Training\obj\Debug\net6.0\ref\Training.dll

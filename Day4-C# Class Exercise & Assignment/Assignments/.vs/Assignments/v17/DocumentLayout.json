@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn13\\transportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|solutionrelative:assignmentqn13\\transportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|solutionrelative:assignmentqn13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn13\\transportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1229881E-4DF1-44B0-AB65-100DBE3E2BA9}|AssignmentQn13\\AssignmentQn13.csproj|solutionrelative:assignmentqn13\\transportschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn12\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|solutionrelative:assignmentqn12\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|solutionrelative:assignmentqn12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn12\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A17A8D-EA7E-4C64-8F31-D4513B20C6DE}|AssignmentQn12\\AssignmentQn12.csproj|solutionrelative:assignmentqn12\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|solutionrelative:assignmentqn11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn11\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|solutionrelative:assignmentqn11\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn11\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|solutionrelative:assignmentqn11\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\assignments\\assignmentqn11\\assignmentqn11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{339E916F-599D-43BC-B903-21A1BB5C8BF6}|AssignmentQn11\\AssignmentQn11.csproj|solutionrelative:assignmentqn11\\assignmentqn11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentQn13\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\Program.cs",
+              "RelativeToolTip": "AssignmentQn13\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:29:12.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Validator.cs",
+              "RelativeDocumentMoniker": "AssignmentQn12\\Validator.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Validator.cs",
+              "RelativeToolTip": "AssignmentQn12\\Validator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:48:08.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Customer.cs",
+              "RelativeDocumentMoniker": "AssignmentQn12\\Customer.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Customer.cs",
+              "RelativeToolTip": "AssignmentQn12\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:47:30.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentQn12\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn12\\Program.cs",
+              "RelativeToolTip": "AssignmentQn12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:45:09.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransportManager.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\TransportManager.cs",
+              "RelativeDocumentMoniker": "AssignmentQn13\\TransportManager.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\TransportManager.cs",
+              "RelativeToolTip": "AssignmentQn13\\TransportManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwE0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:31:29.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransportSchedule.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\TransportSchedule.cs",
+              "RelativeDocumentMoniker": "AssignmentQn13\\TransportSchedule.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn13\\TransportSchedule.cs",
+              "RelativeToolTip": "AssignmentQn13\\TransportSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:30:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentQn11\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Program.cs",
+              "RelativeToolTip": "AssignmentQn11\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:07:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Book.cs",
+              "RelativeDocumentMoniker": "AssignmentQn11\\Book.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Book.cs",
+              "RelativeToolTip": "AssignmentQn11\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:15:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Author.cs",
+              "RelativeDocumentMoniker": "AssignmentQn11\\Author.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\Author.cs",
+              "RelativeToolTip": "AssignmentQn11\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:12:59.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssignmentQn11",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\AssignmentQn11.csproj",
+              "RelativeDocumentMoniker": "AssignmentQn11\\AssignmentQn11.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\Assignments\\AssignmentQn11\\AssignmentQn11.csproj",
+              "RelativeToolTip": "AssignmentQn11\\AssignmentQn11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T10:44:51.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

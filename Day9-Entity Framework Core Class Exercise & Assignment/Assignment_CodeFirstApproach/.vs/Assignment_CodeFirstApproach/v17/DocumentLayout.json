@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\migrations\\20241105013133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:migrations\\20241105013133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\migrations\\20241104123526_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:migrations\\20241104123526_dbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\hospitals\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\hospitals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\hospitals\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\hospitals\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\hospitals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\hospitals\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\doctors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\assignment_codefirstapproach\\views\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F536E61-C6C8-4512-87F2-2681F8E37259}|Assignment_CodeFirstApproach.csproj|solutionrelative:views\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:39:21.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:41:48.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:41:00.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HospitalsController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "Controllers\\HospitalsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAzwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:37:22.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Create.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:01:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Edit.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:04:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Edit.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:09:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Create.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:08:22.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241104123526_dbcreation.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Migrations\\20241104123526_dbcreation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104123526_dbcreation.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Migrations\\20241104123526_dbcreation.cs",
+              "RelativeToolTip": "Migrations\\20241104123526_dbcreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:35:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241105013133_InitialCreate.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Migrations\\20241105013133_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241105013133_InitialCreate.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Migrations\\20241105013133_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241105013133_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:31:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hospitals\\Create.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Create.cshtml",
+              "RelativeToolTip": "Views\\Hospitals\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:12:43.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Create.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:08:25.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:32:47.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T12:32:54.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:11:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hospitals\\Edit.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Hospitals\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:13:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hospitals\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Details.cshtml",
+              "RelativeToolTip": "Views\\Hospitals\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:12:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Hospitals\\Delete.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Hospitals\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Hospitals\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:14:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:15:37.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Edit.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:17:51.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:16:25.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Delete.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Patients\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:18:42.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\MyContext.cs",
+              "RelativeDocumentMoniker": "Models\\MyContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\MyContext.cs",
+              "RelativeToolTip": "Models\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:24:00.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:22:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "Models\\Hospital.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Hospital.cs",
+              "RelativeToolTip": "Models\\Hospital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:21:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:17:33.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:10:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:23:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:22:23.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T01:05:26.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:18:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Delete.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:05:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T14:59:49.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Delete.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:09:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:07:42.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:06:50.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\Assignment_CodeFirstApproach\\Views\\Appointments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T15:03:48.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

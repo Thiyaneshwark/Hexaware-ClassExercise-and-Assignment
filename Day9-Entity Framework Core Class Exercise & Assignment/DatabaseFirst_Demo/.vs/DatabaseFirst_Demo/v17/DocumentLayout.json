@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:controllers\\products1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\views\\products1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:views\\products1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:models\\product1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day9-entity framework core class exercise \u0026 assignment\\databasefirst_demo\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8B209-63CA-4914-8B37-2BD25DDF9411}|DatabaseFirst_Demo.csproj|solutionrelative:models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:33:25.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:28:38.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products1Controller.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Controllers\\Products1Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Products1Controller.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Controllers\\Products1Controller.cs",
+              "RelativeToolTip": "Controllers\\Products1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:24:07.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Products1\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products1\\Index.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Products1\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:36:08.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:37:48.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T09:37:51.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product1.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Models\\Product1.cs",
+              "RelativeDocumentMoniker": "Models\\Product1.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Models\\Product1.cs",
+              "RelativeToolTip": "Models\\Product1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:15:32.183Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:34:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T09:36:45.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "Models\\BikeStoresContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day9-Entity Framework Core Class Exercise \u0026 Assignment\\DatabaseFirst_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:21:38.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

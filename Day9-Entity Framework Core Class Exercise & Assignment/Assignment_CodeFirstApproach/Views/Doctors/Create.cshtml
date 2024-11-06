@@ -1,0 +1,28 @@
+﻿@model Assignment_CodeFirstApproach.Models.Doctor
+
+<h2>Create Doctor</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Specialty" class="control-label"></label>
+        <input asp-for="Specialty" class="form-control" />
+        <span asp-validation-for="Specialty" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="HospitalId" class="control-label">Hospital</label>
+        <select asp-for="HospitalId" class="form-control" asp-items="ViewBag.Hospitals">
+            <option value="">-- Select Hospital --</option>
+        </select>
+        <span asp-validation-for="HospitalId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

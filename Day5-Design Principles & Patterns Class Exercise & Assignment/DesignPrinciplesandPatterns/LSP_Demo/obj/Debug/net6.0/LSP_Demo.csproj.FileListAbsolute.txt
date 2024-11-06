@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\bin\Debug\net6.0\LSP_Demo.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\bin\Debug\net6.0\LSP_Demo.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\bin\Debug\net6.0\LSP_Demo.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\bin\Debug\net6.0\LSP_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\bin\Debug\net6.0\LSP_Demo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\refint\LSP_Demo.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\LSP_Demo.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day5-Design Principles & Patterns Class Exercise & Assignment\DesignPrinciplesandPatterns\LSP_Demo\obj\Debug\net6.0\ref\LSP_Demo.dll

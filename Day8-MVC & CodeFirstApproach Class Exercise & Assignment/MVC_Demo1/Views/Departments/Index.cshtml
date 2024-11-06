@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MVC_Demo1.Models.Department>;
+
+<h1>This is Departments Controller Index page</h1>
+
+<h3>@ViewData["Message"]</h3>
+<a asp-action="Create" class="btn btn-primary">Create New Department</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>No</td>
+            <td>Name</td>
+            <td>Location</td>
+            <td>Actions</td> <!-- Added a column for actions -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.DepartmentId</td>
+                <td>@item.Name</td>
+                <td>@item.Location</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.DepartmentId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.DepartmentId">Delete</a> |
+                    <a asp-action="Details" asp-route-id="@item.DepartmentId">Details</a> <!-- Dynamic link for details -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

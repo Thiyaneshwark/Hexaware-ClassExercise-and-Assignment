@@ -1,0 +1,15 @@
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\bin\Debug\net6.0\Deserialization.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\bin\Debug\net6.0\Deserialization.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\bin\Debug\net6.0\Deserialization.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\bin\Debug\net6.0\Deserialization.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\bin\Debug\net6.0\Deserialization.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\refint\Deserialization.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\Deserialization.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\Deserialization\obj\Debug\net6.0\ref\Deserialization.dll

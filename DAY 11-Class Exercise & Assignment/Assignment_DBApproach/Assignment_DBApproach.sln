@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_DBApproach", "Assignment_DBApproach.csproj", "{7C4940BD-A893-4098-A750-506C60A20297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C4940BD-A893-4098-A750-506C60A20297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4940BD-A893-4098-A750-506C60A20297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4940BD-A893-4098-A750-506C60A20297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4940BD-A893-4098-A750-506C60A20297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A262BE59-78FF-4946-AA70-6DD9544273BD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>101</Id>
+    <Title>Book 1</Title>
+    <Genre>Fiction</Genre>
+    <AuthorId>1</AuthorId>
+  </Book>
+  <Book>
+    <Id>102</Id>
+    <Title>Book 2</Title>
+    <Genre>Adventure</Genre>
+    <AuthorId>2</AuthorId>
+  </Book>
+  <Book>
+    <Id>103</Id>
+    <Title>Book 3</Title>
+    <Genre>Romance</Genre>
+    <AuthorId>3</AuthorId>
+  </Book>
+  <Book>
+    <Id>104</Id>
+    <Title>Book 4</Title>
+    <Genre>Sci-Fi</Genre>
+    <AuthorId>4</AuthorId>
+  </Book>
+  <Book>
+    <Id>105</Id>
+    <Title>Book 5</Title>
+    <Genre>Horror</Genre>
+    <AuthorId>5</AuthorId>
+  </Book>
+</ArrayOfBook>
