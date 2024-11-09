@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\",
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\streamwritereaderdemo\\streamwritereaderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|solutionrelative:streamwritereaderdemo\\streamwritereaderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\streamwritereaderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|solutionrelative:streamwritereaderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\directoryinfodemo\\directoryinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|solutionrelative:directoryinfodemo\\directoryinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\fileiodemos\\addtextinthefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\fileiodemos\\addtextinthefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|solutionrelative:fileiodemos\\addtextinthefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\directoryinfodemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\directoryinfodemo\\directoryinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|solutionrelative:directoryinfodemo\\directoryinfodemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\directoryinfodemo\\directoryinfodemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|solutionrelative:directoryinfodemo\\directoryinfodemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\streamwritereaderdemo\\streamwritereaderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|solutionrelative:streamwritereaderdemo\\streamwritereaderdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\streamwritereaderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3867562-E12B-4802-8D3A-E309DDA8C208}|StreamWriteReaderDemo\\StreamWriteReaderDemo.csproj|solutionrelative:streamwritereaderdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\directoryinfodemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAA20718-BD70-4A27-B603-B7ABEB208D9E}|DirectoryInfoDemo\\DirectoryInfoDemo.csproj|solutionrelative:directoryinfodemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise\\fileiodemos\\fileiodemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day4-c# class exercise \u0026 assignment\\fileiodemos\\fileiodemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A7AD216-3A3A-41CF-9ECF-D2FA2F928BB1}|FileIODemos\\FileIODemos.csproj|solutionrelative:fileiodemos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,17 +50,34 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "DirectoryInfoDemo",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.csproj",
+              "RelativeDocumentMoniker": "DirectoryInfoDemo\\DirectoryInfoDemo.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.csproj",
+              "RelativeToolTip": "DirectoryInfoDemo\\DirectoryInfoDemo.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T07:20:45.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StreamWriteReaderDemo.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
               "RelativeDocumentMoniker": "StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
               "RelativeToolTip": "StreamWriteReaderDemo\\StreamWriteReaderDemo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-25T06:34:20.291Z",
               "EditorCaption": ""
@@ -64,34 +85,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\StreamWriteReaderDemo\\Program.cs",
-              "RelativeDocumentMoniker": "StreamWriteReaderDemo\\Program.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\StreamWriteReaderDemo\\Program.cs",
-              "RelativeToolTip": "StreamWriteReaderDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:34:10.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DirectoryInfoDemo.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.cs",
               "RelativeDocumentMoniker": "DirectoryInfoDemo\\DirectoryInfoDemo.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\DirectoryInfoDemo.cs",
               "RelativeToolTip": "DirectoryInfoDemo\\DirectoryInfoDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:07:31.191Z"
+              "WhenOpened": "2024-10-25T06:07:31.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\DirectoryInfoDemo\\Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\Program.cs",
               "RelativeDocumentMoniker": "DirectoryInfoDemo\\Program.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\DirectoryInfoDemo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\DirectoryInfoDemo\\Program.cs",
               "RelativeToolTip": "DirectoryInfoDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,23 +109,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AddTextintheFile.CS",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\FileIODemos\\AddTextintheFile.CS",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\FileIODemos\\AddTextintheFile.CS",
               "RelativeDocumentMoniker": "FileIODemos\\AddTextintheFile.CS",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\FileIODemos\\AddTextintheFile.CS",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\FileIODemos\\AddTextintheFile.CS",
               "RelativeToolTip": "FileIODemos\\AddTextintheFile.CS",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:04:15.727Z"
+              "WhenOpened": "2024-10-25T06:04:15.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\FileIODemos\\Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\StreamWriteReaderDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StreamWriteReaderDemo\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\StreamWriteReaderDemo\\Program.cs",
+              "RelativeToolTip": "StreamWriteReaderDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:34:10.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\FileIODemos\\Program.cs",
               "RelativeDocumentMoniker": "FileIODemos\\Program.cs",
-              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\FileIODemos\\FileIODemos\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise \u0026 Assignment\\FileIODemos\\FileIODemos\\Program.cs",
               "RelativeToolTip": "FileIODemos\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

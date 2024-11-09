@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day10-Web API Class Exercise\\API_CodeFirst_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day10-web api class exercise\\api_codefirst_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day10-web api class exercise\\api_codefirst_demo\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day10-web api class exercise\\api_codefirst_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day10-web api class exercise\\api_codefirst_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,8 +89,12 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day10-Web API Class Exercise\\API_CodeFirst_Demo\\Data\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
@@ -111,8 +115,7 @@
               "RelativeToolTip": "Repositories\\EmployeeService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:31:47.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T11:31:47.454Z"
             },
             {
               "$type": "Document",
@@ -124,8 +127,7 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:11:31.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:11:31.06Z"
             },
             {
               "$type": "Document",
@@ -137,8 +139,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-05T09:20:44.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:20:44.43Z"
             },
             {
               "$type": "Document",
@@ -150,12 +151,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:21:09.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:21:09.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day10-Web API Class Exercise\\API_CodeFirst_Demo\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
@@ -176,8 +176,7 @@
               "RelativeToolTip": "Repositories\\IEmployeeService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:31:06.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T11:31:06.973Z"
             },
             {
               "$type": "Document",
@@ -189,8 +188,7 @@
               "RelativeToolTip": "Controllers\\EmployeesController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:36:40.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T11:36:40.585Z"
             },
             {
               "$type": "Document",
@@ -202,12 +200,7 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:33:36.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-11-06T09:33:36.036Z"
             },
             {
               "$type": "Document",
@@ -219,8 +212,7 @@
               "RelativeToolTip": "Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAASwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:07:44.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:07:44.737Z"
             },
             {
               "$type": "Document",
@@ -232,8 +224,7 @@
               "RelativeToolTip": "Repositories\\IDepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:53:33.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:53:33.906Z"
             },
             {
               "$type": "Document",
@@ -245,8 +236,7 @@
               "RelativeToolTip": "Repositories\\DepartmentService.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAIwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:53:55.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T09:53:55.729Z"
             },
             {
               "$type": "Document",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj": {}
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj": {}
   },
   "projects": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj": {
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj",
+        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj",
         "projectName": "Serialization",
-        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj",
+        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Serialization\\Serialization.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Serialization\\obj\\",
+        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Serialization\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

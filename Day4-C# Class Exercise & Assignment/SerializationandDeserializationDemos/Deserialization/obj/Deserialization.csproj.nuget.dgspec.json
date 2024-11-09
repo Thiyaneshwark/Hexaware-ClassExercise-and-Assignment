@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj": {}
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj": {}
   },
   "projects": {
-    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj": {
+    "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj",
+        "projectUniqueName": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj",
         "projectName": "Deserialization",
-        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj",
+        "projectPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Deserialization\\Deserialization.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise\\SerializationandDeserializationDemos\\Deserialization\\obj\\",
+        "outputPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day4-C# Class Exercise & Assignment\\SerializationandDeserializationDemos\\Deserialization\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

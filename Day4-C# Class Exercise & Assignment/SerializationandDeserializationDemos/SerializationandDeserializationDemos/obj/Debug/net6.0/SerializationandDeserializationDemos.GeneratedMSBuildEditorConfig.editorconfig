@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SerializationandDeserializationDemos
-build_property.ProjectDir = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise\SerializationandDeserializationDemos\SerializationandDeserializationDemos\
+build_property.ProjectDir = D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day4-C# Class Exercise & Assignment\SerializationandDeserializationDemos\SerializationandDeserializationDemos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

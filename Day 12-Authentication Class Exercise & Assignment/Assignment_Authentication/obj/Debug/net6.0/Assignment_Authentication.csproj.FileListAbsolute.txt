@@ -1,0 +1,153 @@
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.exe
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.pdb
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Humanizer.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.csproj.AssemblyReference.cache
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Assignment_Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\scopedcss\bundle\Assignment_Authentication.styles.css
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignme.FE6CD607.Up2Date
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\refint\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.pdb
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\SampleSource\Assignment_Authentication\obj\Debug\net6.0\ref\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\appsettings.Development.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\appsettings.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.exe
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.deps.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.runtimeconfig.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Assignment_Authentication.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Humanizer.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.csproj.AssemblyReference.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.AssemblyInfoInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.AssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.csproj.CoreCompileInputs.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.sourcelink.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.build.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.development.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.Assignment_Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment_Authentication.props
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\scopedcss\bundle\Assignment_Authentication.styles.css
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignme.FE6CD607.Up2Date
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\refint\Assignment_Authentication.dll
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.pdb
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\Assignment_Authentication.genruntimeconfig.cache
+D:\HEXAWARE\C#\DOT NET FSD\Assignments\Day 12-Authentication Class Exercise & Assignment\Assignment_Authentication\obj\Debug\net6.0\ref\Assignment_Authentication.dll

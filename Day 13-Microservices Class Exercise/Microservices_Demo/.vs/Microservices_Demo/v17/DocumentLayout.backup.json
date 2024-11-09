@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\studentattendance\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schooladmission\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E33F432-CDAF-4444-8F2C-CC7A6CE3B076}|SchoolApiGateway\\SchoolApiGateway.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E33F432-CDAF-4444-8F2C-CC7A6CE3B076}|SchoolApiGateway\\SchoolApiGateway.csproj|solutionrelative:schoolapigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schooladmission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\studentattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schooladmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E33F432-CDAF-4444-8F2C-CC7A6CE3B076}|SchoolApiGateway\\SchoolApiGateway.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E33F432-CDAF-4444-8F2C-CC7A6CE3B076}|SchoolApiGateway\\SchoolApiGateway.csproj|solutionrelative:schoolapigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\studentattendance\\controllers\\studentsatendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\controllers\\studentsatendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\studentattendance\\models\\stuattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A9483E-1455-4D5E-A7A1-3D573D57567D}|StudentAttendance\\StudentAttendance.csproj|solutionrelative:studentattendance\\models\\stuattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schooladmission\\controllers\\schooladmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\controllers\\schooladmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 13-class exercise \u0026 assignment\\microservices_demo\\schooladmission\\models\\studentadmissiondetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E8CD91-D760-4175-81A5-7924E0E6C1EA}|SchoolAdmission\\SchoolAdmission.csproj|solutionrelative:schooladmission\\models\\studentadmissiondetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAdmission\\appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\appsettings.json",
+              "RelativeToolTip": "SchoolAdmission\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:15:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentAttendance\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentAttendance\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:11:34.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolAdmission\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:11:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Program.cs",
+              "RelativeToolTip": "SchoolAdmission\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:10:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApiGateway\\Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolApiGateway\\Program.cs",
+              "RelativeToolTip": "SchoolApiGateway\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:09:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "SchoolApiGateway\\Ocelot.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolApiGateway\\Ocelot.json",
+              "RelativeToolTip": "SchoolApiGateway\\Ocelot.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:06:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAttendance\\appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\appsettings.json",
+              "RelativeToolTip": "StudentAttendance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T06:17:23.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsAtendanceController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "RelativeToolTip": "StudentAttendance\\Controllers\\StudentsAtendanceController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:00:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StuAttendance.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Models\\StuAttendance.cs",
+              "RelativeDocumentMoniker": "StudentAttendance\\Models\\StuAttendance.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\StudentAttendance\\Models\\StuAttendance.cs",
+              "RelativeToolTip": "StudentAttendance\\Models\\StuAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:00:25.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolAdmissionController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "RelativeToolTip": "SchoolAdmission\\Controllers\\SchoolAdmissionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:57:29.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentAdmissionDetailModel.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "RelativeDocumentMoniker": "SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 13-Class Exercise \u0026 Assignment\\Microservices_Demo\\SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "RelativeToolTip": "SchoolAdmission\\Models\\StudentAdmissionDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:56:31.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

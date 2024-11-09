@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:authentication\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:authentication\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:authentication\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\controllers\\employeedetailsdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:controllers\\employeedetailsdisplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\authentication\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:authentication\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\assignment_authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:assignment_authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\repositories\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:repositories\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\repositories\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:repositories\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\migrations\\20241107173800_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:migrations\\20241107173800_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 12-authentication class exercise \u0026 assignment\\assignment_authentication\\migrations\\20241107175922_updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B25E3D4-C433-43F3-8CB2-E3A4316B6EDB}|Assignment_Authentication.csproj|solutionrelative:migrations\\20241107175922_updateemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\RegisterModel.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\RegisterModel.cs",
+              "RelativeToolTip": "Authentication\\RegisterModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:34:16.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\LoginModel.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\LoginModel.cs",
+              "RelativeToolTip": "Authentication\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:33:55.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetailsDisplayController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\EmployeeDetailsDisplayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeDetailsDisplayController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\EmployeeDetailsDisplayController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeDetailsDisplayController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:05:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\Response.cs",
+              "RelativeDocumentMoniker": "Authentication\\Response.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\Response.cs",
+              "RelativeToolTip": "Authentication\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:34:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:24:49.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:35:29.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\DbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\DbContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Authentication\\DbContext.cs",
+              "RelativeToolTip": "Authentication\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:33:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:05:02.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:04:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:37:00.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Assignment_Authentication.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Assignment_Authentication.csproj",
+              "RelativeDocumentMoniker": "Assignment_Authentication.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Assignment_Authentication.csproj",
+              "RelativeToolTip": "Assignment_Authentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T16:06:48.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Repositories\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeService.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Repositories\\IEmployeeService.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:11:58.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Repositories\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeService.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Repositories\\EmployeeService.cs",
+              "RelativeToolTip": "Repositories\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:12:41.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241107175922_UpdateEmployeeModel.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Migrations\\20241107175922_UpdateEmployeeModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241107175922_UpdateEmployeeModel.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Migrations\\20241107175922_UpdateEmployeeModel.cs",
+              "RelativeToolTip": "Migrations\\20241107175922_UpdateEmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:59:23.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T17:35:53.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241107173800_InitialCreate.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Migrations\\20241107173800_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241107173800_InitialCreate.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 12-Authentication Class Exercise \u0026 Assignment\\Assignment_Authentication\\Migrations\\20241107173800_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241107173800_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:38:01.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
