@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\validations\\employeedateofbirthvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:validations\\employeedateofbirthvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 15-ef raw sql \u0026 custom validation class exercise\\ef_raw_sql_demo\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}|EF_Raw_SQL_Demo.csproj|solutionrelative:models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:08:04.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDateOfBirthValidation.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Validations\\EmployeeDateOfBirthValidation.cs",
+              "RelativeDocumentMoniker": "Validations\\EmployeeDateOfBirthValidation.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Validations\\EmployeeDateOfBirthValidation.cs",
+              "RelativeToolTip": "Validations\\EmployeeDateOfBirthValidation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:07:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:06:20.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:43:01.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:41:47.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "Models\\BikeStoresContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 15-EF Raw SQL \u0026 Custom Validation Class Exercise\\EF_Raw_SQL_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:41:14.511Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

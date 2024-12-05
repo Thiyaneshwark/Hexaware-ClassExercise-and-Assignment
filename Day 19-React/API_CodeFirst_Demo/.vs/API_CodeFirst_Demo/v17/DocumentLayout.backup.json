@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\migrations\\20241123075629_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:migrations\\20241123075629_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\repositories\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:repositories\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\repositories\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:repositories\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\repositories\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:repositories\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\repositories\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:repositories\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|e:\\hexaware\\api\\api_codefirst_demo\\api_codefirst_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C97D3F76-3CCA-4EF9-8B7F-97BFA273F2A1}|API_CodeFirst_Demo.csproj|solutionrelative:api_codefirst_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:11:31.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:20:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:21:09.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:07:44.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241123075629_Db Creation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Migrations\\20241123075629_Db Creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241123075629_Db Creation.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Migrations\\20241123075629_Db Creation.cs",
+              "RelativeToolTip": "Migrations\\20241123075629_Db Creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:56:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeService.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\EmployeeService.cs",
+              "RelativeToolTip": "Repositories\\EmployeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:31:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:19:02.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:05:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeService.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\IEmployeeService.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:31:06.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:36:40.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:36.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDepartmentService.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\IDepartmentService.cs",
+              "RelativeToolTip": "Repositories\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:33.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartmentService.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\Repositories\\DepartmentService.cs",
+              "RelativeToolTip": "Repositories\\DepartmentService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:53:55.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:33:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "API_CodeFirst_Demo.csproj",
+              "DocumentMoniker": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\API_CodeFirst_Demo.csproj",
+              "RelativeDocumentMoniker": "API_CodeFirst_Demo.csproj",
+              "ToolTip": "E:\\Hexaware\\API\\API_CodeFirst_Demo\\API_CodeFirst_Demo.csproj",
+              "RelativeToolTip": "API_CodeFirst_Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T09:24:50.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

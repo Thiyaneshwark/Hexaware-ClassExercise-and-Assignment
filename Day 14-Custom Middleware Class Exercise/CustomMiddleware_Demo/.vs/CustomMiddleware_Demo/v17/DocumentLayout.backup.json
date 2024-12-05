@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\customexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:customexceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:middleware\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\middleware\\custommiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:middleware\\custommiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\middleware\\exceptionhandlingmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:middleware\\exceptionhandlingmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|d:\\hexaware\\c#\\dot net fsd\\assignments\\day 14-class exercise \u0026 assignment\\custommiddleware_demo\\models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7CB611-9AD4-495B-9A3A-97518AC9A6AB}|CustomMiddleware_Demo.csproj|solutionrelative:models\\bikestorescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:13:17.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomMiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\CustomMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomMiddlewareExtensions.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\CustomMiddlewareExtensions.cs",
+              "RelativeToolTip": "Middleware\\CustomMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:07:42.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\CustomMiddleware.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\CustomMiddleware.cs",
+              "RelativeToolTip": "Middleware\\CustomMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:07:20.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:12:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:08:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:03:35.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\CustomExceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "CustomExceptions\\EntityNotFoundException.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\CustomExceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "CustomExceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:09:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandlingMiddlewareExtension.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\ExceptionHandlingMiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddlewareExtension.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Middleware\\ExceptionHandlingMiddlewareExtension.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddlewareExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:06:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BikeStoresContext.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeDocumentMoniker": "Models\\BikeStoresContext.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Assignments\\Day 14-Class Exercise \u0026 Assignment\\CustomMiddleware_Demo\\Models\\BikeStoresContext.cs",
+              "RelativeToolTip": "Models\\BikeStoresContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:02:35.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

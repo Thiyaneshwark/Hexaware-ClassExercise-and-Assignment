@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header,footer{
+    background-color: #333;
+    color:  white;
+    text-align: center;
+    padding: 1em 0;
+}
+main{
+    display: flex;
+    padding: 20px;   
+    gap: 20px; 
+}
+article{
+    flex:3
+}
+aside{
+    background-color:#eee;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid rebeccapurple;
+    flex: 1;
+}
+
+aside h2{
+    margin-top: 0;
+}
+aside ul{
+    list-style-type: none;
+}
+aside ul li{
+    margin: 10px 0;
+}
+
+aside a{
+    text-decoration: none;
+    color: #007acc;
+}
+aside p{
+    margin: 10px 0;
+}

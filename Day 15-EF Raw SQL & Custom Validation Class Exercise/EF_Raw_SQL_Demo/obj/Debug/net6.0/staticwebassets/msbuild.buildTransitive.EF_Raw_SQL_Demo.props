@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EF_Raw_SQL_Demo.props" />
+</Project>

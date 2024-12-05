@@ -1,0 +1,41 @@
+<!-- Assignment :2
+ Create array of Object of students which has Student
+ id,name, result,percentage
+ You should list out all passed student and they got the percentage greater than 80 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passed Students with Percentage Greater Than 80</title>
+</head>
+<body>
+    <h2>List of Passed Students with Percentage Greater Than 80</h2>
+    <ul id="passedStudentsList"></ul>
+
+    <script>
+        // Array of student objects
+        const students = [
+            { id: 1, name: "Ram", result: "Pass", percentage: 85 },
+            { id: 2, name: "Pooja", result: "Fail", percentage: 65 },
+            { id: 3, name: "Jaanu", result: "Pass", percentage: 90 },
+            { id: 4, name: "Vijay", result: "Pass", percentage: 75 },
+            { id: 5, name: "Ravi", result: "Pass", percentage: 82 }
+        ];
+
+        // Filter students who have passed and have percentage > 80
+        const passedStudents = students.filter(student => student.result === "Pass" && student.percentage > 80);
+
+        // Get the UL element where the students will be listed
+        const passedStudentsList = document.getElementById('passedStudentsList');
+
+        // Add the filtered students to the list
+        passedStudents.forEach(student => {
+            const listItem = document.createElement('li');
+            listItem.textContent = `ID: ${student.id}, Name: ${student.name}, Percentage: ${student.percentage}%`;
+            passedStudentsList.appendChild(listItem);
+        });
+    </script>
+</body>
+</html>

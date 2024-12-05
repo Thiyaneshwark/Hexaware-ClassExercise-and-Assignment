@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    color: #333;
+    font-family: 'Arial', sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    background: #ff6b6b;
+}
+
+.btn-colorful {
+    background: #4CAF50;
+    color: white;
+    border-radius: 25px;
+}
+
+.btn-colorful:hover {
+    background: #45a049;
+}
+
+.card {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}

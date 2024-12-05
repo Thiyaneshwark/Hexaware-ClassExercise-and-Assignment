@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Raw_SQL_Demo", "EF_Raw_SQL_Demo.csproj", "{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8ACB8E-0F70-4F51-A84B-422915F1F2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608D02DF-9D90-42E9-9EC2-8B4154EE336C}
+	EndGlobalSection
+EndGlobal

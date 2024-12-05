@@ -1,0 +1,60 @@
+<!-- Assignments:1
+List of product in stock in Html table or Listitem -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <title>Products in Stock</title>
+</head>
+<body>
+    <h2>Products In Stock</h2>
+    <table border="1" id="productTable">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>In Stock</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h2>Products In Stock</h2>
+    <ul id="productList"></ul>
+
+    <script>
+        const products = [
+            { id: 1, name: "Laptop", details: { price: 49999, instock: true } },
+            { id: 2, name: "Ipad", details: { price: 69999, instock: false } },
+            { id: 3, name: "Phone", details: { price: 19999, instock: true } },
+            { id: 4, name: "Projector", details: { price: 9999, instock: false } }
+        ];
+
+        // Filter products that are in stock
+        const instockProducts = products.filter((product) => product.details.instock);
+
+        // Display products in stock in the table
+        const productTableBody = document.querySelector('#productTable tbody');
+        instockProducts.forEach(product => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${product.id}</td>
+                <td>${product.name}</td>
+                <td>${product.details.price}</td>
+                <td>${product.details.instock ? 'Yes' : 'No'}</td>
+            `;
+            productTableBody.appendChild(row);
+        });
+
+        // Display products in stock as list items
+        const productList = document.getElementById('productList');
+        instockProducts.forEach(product => {
+            const listItem = document.createElement('li');
+            listItem.textContent = `${product.name} - Price: ₹${product.details.price} - In Stock: ${product.details.instock ? 'Yes' : 'No'}`;
+            productList.appendChild(listItem);
+        });
+    </script>
+</body>
+</html>

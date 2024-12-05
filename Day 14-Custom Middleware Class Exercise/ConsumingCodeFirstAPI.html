@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Simple API Consume example</title>
+  </head>
+
+  <body>
+    <h1>AJAX example</h1>
+    <p>Click the button below to fetch data from the server or API</p>
+
+    <button onclick="loadDepartmentData()">Fetch Department Data</button>
+    <button onclick="loadEmployeeData()">Fetch Employee Data</button>
+    <div id="result"></div>
+
+    <script>
+      function loadDepartmentData() {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://localhost:7253/api/Departments", true);
+
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            const data = JSON.parse(xhr.responseText);
+            let resultHtml = "<h3>Departments Data</h3>";
+
+            for (let i = 0; i < data.length; i++) {
+              resultHtml += `
+                    <p><strong>Id:</strong> ${data[i].id}</p>
+                    <p><strong>Name:</strong> ${data[i].name}</p>
+                    <p><strong>Department Head:</strong> ${data[i].departmentHead}</p>
+                    <hr />`;
+            }
+            document.getElementById("result").innerHTML = resultHtml;
+          }
+        };
+        xhr.send();
+      }
+
+      function loadEmployeeData() {
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://localhost:7253/api/Employees", true);
+
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            const data = JSON.parse(xhr.responseText);
+            let resultHtml = "<h3>Employees Data</h3>";
+
+            for (let i = 0; i < data.length; i++) {
+              resultHtml += `
+                    <p><strong>Id:</strong> ${data[i].employeeId}</p>
+                    <p><strong>Name:</strong> ${data[i].name}</p>
+                    <p><strong>Position:</strong> ${data[i].designation}</p>
+                    <hr />`;
+            }
+            document.getElementById("result").innerHTML = resultHtml;
+          }
+        };
+        xhr.send();
+      }
+    </script>
+  </body>
+</html>

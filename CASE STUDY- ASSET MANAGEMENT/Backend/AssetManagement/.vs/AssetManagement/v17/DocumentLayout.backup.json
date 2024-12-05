@@ -1,0 +1,1063 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\maintenancelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\maintenancelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\assetrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\assetrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\constants\\multivalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:constants\\multivalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\maintenancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\maintenancelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\auditscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\assetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\assetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\returnrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\userprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\userprofilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241203075205_Db Creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241203075205_Db Creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D27A8A4-75D0-4AA5-A788-6A903B852B3B}|..\\Hexa_HubTests\\AssetManagementTests.csproj|e:\\hexaware\\casestudy\\demo\\hexa_hubtests\\assetrequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\assetallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\assetallocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\returnrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\returnrequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\assetallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\assetallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\userprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\userprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\returnrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\returnrequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241201025415_DB Creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241201025415_DB Creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\assetrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\assetrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\subcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\servicerequestimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\servicerequestimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iassetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\controllers\\assetallocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:controllers\\assetallocationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iassetallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iassetallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\isubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\isubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\ireturnreqrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\ireturnreqrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\iauditrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\iauditrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\interface\\imaintenancelogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:interface\\imaintenancelogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\repository\\maintenancelogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:repository\\maintenancelogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\assetmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:assetmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ReturnRequestTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\UserTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ServiceRequestTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\MaintenanceLogTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\SubCategoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\CategoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetRequestTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetAllocationTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetManagementTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|e:\\hexaware\\casestudy\\demo\\assetmanagement\\migrations\\20241203102523_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CDA43-60DE-4D41-9E87-1CDDA5DEDC70}|AssetManagement.csproj|solutionrelative:migrations\\20241203102523_db creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetService.cs",
+              "RelativeDocumentMoniker": "Repository\\AssetService.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetService.cs",
+              "RelativeToolTip": "Repository\\AssetService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAMwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:03:34.471Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryService.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\CategoryService.cs",
+              "RelativeToolTip": "Repository\\CategoryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:57:01.277Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAlwFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:18:46.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:39:23.425Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetRequestsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetRequestsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetRequestsController.cs",
+              "RelativeToolTip": "Controllers\\AssetRequestsController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:18:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:37:56.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenanceLogsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\MaintenanceLogsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceLogsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\MaintenanceLogsController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceLogsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:37.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiValues.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Constants\\MultiValues.cs",
+              "RelativeDocumentMoniker": "Constants\\MultiValues.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Constants\\MultiValues.cs",
+              "RelativeToolTip": "Constants\\MultiValues.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:11:46.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MaintenanceLog.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\MaintenanceLog.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceLog.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\MaintenanceLog.cs",
+              "RelativeToolTip": "Models\\MaintenanceLog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:12:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AuditsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AuditsController.cs",
+              "RelativeToolTip": "Controllers\\AuditsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAIoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:34:51.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssetRequest.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\AssetRequest.cs",
+              "RelativeDocumentMoniker": "Models\\AssetRequest.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\AssetRequest.cs",
+              "RelativeToolTip": "Models\\AssetRequest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:30:44.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReturnRequest.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\ReturnRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ReturnRequest.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\ReturnRequest.cs",
+              "RelativeToolTip": "Models\\ReturnRequest.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:17:32.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\SubCategory.cs",
+              "RelativeDocumentMoniker": "Models\\SubCategory.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\SubCategory.cs",
+              "RelativeToolTip": "Models\\SubCategory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:18:52.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Audit.cs",
+              "RelativeDocumentMoniker": "Models\\Audit.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Audit.cs",
+              "RelativeToolTip": "Models\\Audit.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:20:27.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfilesController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\UserProfilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserProfilesController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\UserProfilesController.cs",
+              "RelativeToolTip": "Controllers\\UserProfilesController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAACQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:32:09.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:17:40.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20241203102523_Db Creation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241203102523_Db Creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241203102523_Db Creation.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241203102523_Db Creation.cs",
+              "RelativeToolTip": "Migrations\\20241203102523_Db Creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:25:24.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:32:16.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241203075205_Db Creation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241203075205_Db Creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241203075205_Db Creation.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241203075205_Db Creation.cs",
+              "RelativeToolTip": "Migrations\\20241203075205_Db Creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:52:05.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetAllocationService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetAllocationService.cs",
+              "RelativeDocumentMoniker": "Repository\\AssetAllocationService.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetAllocationService.cs",
+              "RelativeToolTip": "Repository\\AssetAllocationService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAASwEkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:17:06.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssetRequestTests.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\Hexa_HubTests\\AssetRequestTests.cs",
+              "RelativeDocumentMoniker": "..\\Hexa_HubTests\\AssetRequestTests.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\Hexa_HubTests\\AssetRequestTests.cs",
+              "RelativeToolTip": "..\\Hexa_HubTests\\AssetRequestTests.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:50:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReturnRequestsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\ReturnRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReturnRequestsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\ReturnRequestsController.cs",
+              "RelativeToolTip": "Controllers\\ReturnRequestsController.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwJYAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:37.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T08:02:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:12:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssetAllocation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\AssetAllocation.cs",
+              "RelativeDocumentMoniker": "Models\\AssetAllocation.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\AssetAllocation.cs",
+              "RelativeToolTip": "Models\\AssetAllocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:31:43.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserProfileRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\UserProfileRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\UserProfileRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\UserProfileRepo.cs",
+              "RelativeToolTip": "Repository\\UserProfileRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T05:16:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:56:53.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\IUserRepository.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:07:46.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:55:50.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\ChangePasswordDto.cs",
+              "RelativeToolTip": "DTOs\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:35:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReturnRequestRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\ReturnRequestRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\ReturnRequestRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\ReturnRequestRepo.cs",
+              "RelativeToolTip": "Repository\\ReturnRequestRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:02:28.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241201025415_DB Creation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241201025415_DB Creation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241201025415_DB Creation.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Migrations\\20241201025415_DB Creation.cs",
+              "RelativeToolTip": "Migrations\\20241201025415_DB Creation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:54:15.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "Models\\Asset.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Asset.cs",
+              "RelativeToolTip": "Models\\Asset.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwDQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:09:58.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:56:15.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:47:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssetRequestService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetRequestService.cs",
+              "RelativeDocumentMoniker": "Repository\\AssetRequestService.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\AssetRequestService.cs",
+              "RelativeToolTip": "Repository\\AssetRequestService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:39:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAssetRequest.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAssetRequest.cs",
+              "RelativeDocumentMoniker": "Interface\\IAssetRequest.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAssetRequest.cs",
+              "RelativeToolTip": "Interface\\IAssetRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:05:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SubCategoryService.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\SubCategoryService.cs",
+              "RelativeDocumentMoniker": "Repository\\SubCategoryService.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\SubCategoryService.cs",
+              "RelativeToolTip": "Repository\\SubCategoryService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:09:37.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServiceRequestImpl.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\ServiceRequestImpl.cs",
+              "RelativeDocumentMoniker": "Repository\\ServiceRequestImpl.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\ServiceRequestImpl.cs",
+              "RelativeToolTip": "Repository\\ServiceRequestImpl.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:22:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IAsset.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAsset.cs",
+              "RelativeDocumentMoniker": "Interface\\IAsset.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAsset.cs",
+              "RelativeToolTip": "Interface\\IAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:06:06.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubCategoriesController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\SubCategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SubCategoriesController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\SubCategoriesController.cs",
+              "RelativeToolTip": "Controllers\\SubCategoriesController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:29:37.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:12:55.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:09:08.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDto.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:20:38.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:06:49.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AssetAllocationsController.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetAllocationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssetAllocationsController.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Controllers\\AssetAllocationsController.cs",
+              "RelativeToolTip": "Controllers\\AssetAllocationsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:17:22.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAssetAllocation.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAssetAllocation.cs",
+              "RelativeDocumentMoniker": "Interface\\IAssetAllocation.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAssetAllocation.cs",
+              "RelativeToolTip": "Interface\\IAssetAllocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:50:45.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IServiceRequest.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IServiceRequest.cs",
+              "RelativeDocumentMoniker": "Interface\\IServiceRequest.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IServiceRequest.cs",
+              "RelativeToolTip": "Interface\\IServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:25:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ISubCategory.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\ISubCategory.cs",
+              "RelativeDocumentMoniker": "Interface\\ISubCategory.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\ISubCategory.cs",
+              "RelativeToolTip": "Interface\\ISubCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:54:23.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\ICategory.cs",
+              "RelativeDocumentMoniker": "Interface\\ICategory.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\ICategory.cs",
+              "RelativeToolTip": "Interface\\ICategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:50:38.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:31:55.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ReturnRequestTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ReturnRequestTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ReturnRequestTests.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAYwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:24:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\UserTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\UserTests.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:31:02.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ServiceRequestTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ServiceRequestTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\ServiceRequestTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:47:15.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MaintenanceLogTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\MaintenanceLogTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\MaintenanceLogTests.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:10:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AssetServiceTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetServiceTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetServiceTests.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:09:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SubCategoryTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\SubCategoryTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\SubCategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:48:21.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\CategoryTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\CategoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:46:36.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AssetTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:45:33.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AssetRequestTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetRequestTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetRequestTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:44:39.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AssetAllocationTests.cs",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetAllocationTests.cs",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetAllocationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T09:33:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IReturnReqRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IReturnReqRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IReturnReqRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IReturnReqRepo.cs",
+              "RelativeToolTip": "Interface\\IReturnReqRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:07:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IAuditRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAuditRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuditRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IAuditRepo.cs",
+              "RelativeToolTip": "Interface\\IAuditRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:50:41.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IMaintenanceLogRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IMaintenanceLogRepo.cs",
+              "RelativeDocumentMoniker": "Interface\\IMaintenanceLogRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Interface\\IMaintenanceLogRepo.cs",
+              "RelativeToolTip": "Interface\\IMaintenanceLogRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:07:06.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MaintenanceLogRepo.cs",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\MaintenanceLogRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\MaintenanceLogRepo.cs",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\Repository\\MaintenanceLogRepo.cs",
+              "RelativeToolTip": "Repository\\MaintenanceLogRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:03:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AssetManagement.csproj",
+              "DocumentMoniker": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\AssetManagement.csproj",
+              "RelativeDocumentMoniker": "AssetManagement.csproj",
+              "ToolTip": "E:\\Hexaware\\casestudy\\Demo\\AssetManagement\\AssetManagement.csproj",
+              "RelativeToolTip": "AssetManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T08:01:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AssetManagementTests.csproj",
+              "DocumentMoniker": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetManagementTests.csproj",
+              "ToolTip": "D:\\HEXAWARE\\C#\\DOT NET FSD\\Project-Case Study\\Hexa_HubTests\\AssetManagementTests.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T09:43:19.784Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
