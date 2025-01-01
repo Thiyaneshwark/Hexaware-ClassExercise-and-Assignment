@@ -1,0 +1,19 @@
+.server-list{
+display:flex;
+flex-wrap:wrap;
+gap:20px;
+justify-content: center; /* Horizontally center */
+align-items: center; /* Vertically center */
+min-height: 20vh;
+}
+
+.server-item{
+    border:1px solid #ddd;
+    border-radius:8px;
+    padding:20px;
+    background-color: azure;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width:200px;
+    text-align: center;
+    transition: background-color 0.3s;
+}

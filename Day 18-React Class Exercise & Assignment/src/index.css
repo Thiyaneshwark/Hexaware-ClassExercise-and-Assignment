@@ -1,0 +1,76 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Quicksand", sans-serif;
+  line-height: 1.5;
+  color: #ebe7ef;
+  background: radial-gradient(#280a48, #20043d);
+  font-synthesis: none;
+  /* text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  min-height: 80rem; */
+}body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#core-concepts{
+  padding: 2rem;
+  border-radius: 6px;
+  background-color: #140524;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+#core-concepts ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap:4rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#core-concepts li{
+  width: 10rem;
+  text-align: center;
+}
+
+#core-concept li img{
+  height: 3rem;
+  width: 5rem;
+  object-fit: cover;
+  border-radius: 5%
+}
+#core-concept li  h3{
+  margin: 0.5rem 0;
+}
+#core-concept li p{
+  font-size:0.9rem;
+}
+
+ header{
+  text-align: center;
+  margin: 3rem 0;
+  background-color: #140524;
+}
+main h2{
+  text-align: center;
+  font-family: "Roboto condensed",sans-serif;
+  margin: 0 0 1.5rem 0;
+  color: #a18aba;
+}
